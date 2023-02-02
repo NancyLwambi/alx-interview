@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module for the N queens challenge.
+"""N queens solution finder module.
 """
 import sys
 
